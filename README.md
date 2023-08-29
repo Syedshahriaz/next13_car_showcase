@@ -1,4 +1,4 @@
-<h1>Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS</h1>
+<h1>Modern Next.js 13 Application | React, Next JS 13, TypeScript, Headless UI & Tailwind CSS</h1>
 <br>
 <img src="./public/showcase.jpg" alt="car show case">  
 <br>
